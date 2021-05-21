@@ -18,7 +18,7 @@ public class Application {
 		System.out.println(run.getBean("UserDAO.Class"));
 		
 		System.out.println("first spring boot app");
-		run.close();
+		//run.close();
 	}
 
 }
